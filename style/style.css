@@ -75,7 +75,7 @@ section.image {
 }
 
 #img01 {
-    background: url('../imagens/background001.jpg') right center no-repeat fixed;
+    background: url('../imagens/background001.jpg') 60% center no-repeat fixed;
 }
 
 #img02 {
@@ -87,6 +87,7 @@ section.image > p{
     padding: 20px 40px;
     background-color: rgba(0, 0, 0, .5);
     color: white;
+    text-shadow: 1px 1px 0 black;
 }
 
 footer {
