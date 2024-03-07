@@ -43,19 +43,20 @@ section p {
 }
 
 section.background-01, section.background-02 {
-    background-color: #111;
     margin: 40px 0;
     padding: 80px 15%;
     box-shadow: inset 0 0 10px rgb(0 0 0 / .3);
 }
 
 section.background-01 {
+    background-color: #111;
     background: url("../img/ladybug-1478029_1280.jpg") no-repeat center bottom;
     background-attachment: fixed;
     background-size: cover;
 }
 
 section.background-02 {
+    background-color: #111;
     background: url("../img/book-6709160_1280.jpg") no-repeat center bottom;
     background-attachment: fixed;
     background-size: cover;
